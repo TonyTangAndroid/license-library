@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notices>
+    <notice>
+        <name>Hugo</name>
+        <url>https://github.com/JakeWharton/hugo/</url>
+        <copyright>Copyright 2013 Jake Wharton</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>aFileChooser</name>
+        <url>https://github.com/iPaulPro/aFileChooser</url>
+        <copyright>Copyright (C) 2007-2008 OpenIntents.org</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>ViewPagerIndicator</name>
+        <url>https://github.com/JakeWharton/ViewPagerIndicator</url>
+        <copyright>Copyright 2012 Jake Wharton
+            Copyright 2011 Patrik Åkerfeldt
+            Copyright 2011 Francisco Figueiredo Jr.</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Gson</name>
+        <url>https://code.google.com/p/google-gson/</url>
+        <copyright />
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>EventBus</name>
+        <url>https://github.com/greenrobot/EventBus</url>
+        <copyright>greenrobot</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Google Guava</name>
+        <url>http://code.google.com/p/guava-libraries/</url>
+        <copyright>Copyright (C) 2007 The Guava Authors</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>FloatingActionButton</name>
+        <url>https://github.com/makovkastar/FloatingActionButton/</url>
+        <copyright>Copyright (c) 2014 Oleksandr Melnykov</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>TaggerString</name>
+        <url>https://github.com/polok/TaggerString</url>
+        <copyright>Copyright 2014 Marcin Polak</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>android-database-sqlcipher</name>
+        <url>https://github.com/sqlcipher/android-database-sqlcipher</url>
+        <copyright />
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Android Action Bar Icons v0.2</name>
+        <url>http://fortawesome.github.io/Font-Awesome/license/</url>
+        <copyright>Font Awesome by Dave Gandy - http://fontawesome.io</copyright>
+        <license>Font Awesome License</license>
+    </notice>
+    <notice>
+        <name>Android Stock Icons</name>
+        <url>https://developer.android.com/design/downloads/index.html</url>
+        <copyright/>
+        <license>Attribution 2.5 Generic (CC BY 2.5)</license>
+    </notice>
+    <notice>
+        <name>Bolts-Android</name>
+        <url>https://github.com/BoltsFramework/Bolts-Android/</url>
+        <copyright>Copyright (c) 2013, Facebook, Inc. All rights reserved.</copyright>
+        <license>BSD 3-Clause License</license>
+    </notice>
+    <notice>
+        <name>PasswordView</name>
+        <url>https://github.com/tiwiz/PasswordView/</url>
+        <copyright />
+        <license>Apache Software License 2.0</license>
+    </notice>
+</notices>
