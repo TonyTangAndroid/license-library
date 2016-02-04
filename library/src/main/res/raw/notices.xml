@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notices>
+    <notice>
+        <name>Hugo</name>
+        <url>https://github.com/JakeWharton/hugo/</url>
+        <copyright>Copyright 2013 Jake Wharton</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>aFileChooser</name>
+        <url>https://github.com/iPaulPro/aFileChooser</url>
+        <copyright>Copyright (C) 2007-2008 OpenIntents.org</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Gson</name>
+        <url>https://code.google.com/p/google-gson/</url>
+        <copyright />
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>EventBus</name>
+        <url>https://github.com/greenrobot/EventBus</url>
+        <copyright>greenrobot</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Google Guava</name>
+        <url>http://code.google.com/p/guava-libraries/</url>
+        <copyright>Copyright (C) 2007 The Guava Authors</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>AppIntro</name>
+        <url>https://github.com/PaoloRotolo/AppIntro/</url>
+        <copyright>PaoloRotolo</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>LolliPin</name>
+        <url>https://github.com/PaoloRotolo/AppIntro/</url>
+        <copyright>Copyright (c) 2015 OrangeGangsters</copyright>
+        <license>The MIT License (MIT)</license>
+    </notice>
+    <notice>
+        <name>Android Gif Drawable</name>
+        <url>https://github.com/koral--/android-gif-drawable/</url>
+        <copyright>Copyright (c) 2016 Karol Wrótniak, Droids on Roids</copyright>
+        <license>The MIT License (MIT)</license>
+    </notice>
+    <notice>
+        <name>TaggerString</name>
+        <url>https://github.com/polok/TaggerString</url>
+        <copyright>Copyright 2014 Marcin Polak</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>android-database-sqlcipher</name>
+        <url>https://github.com/sqlcipher/android-database-sqlcipher</url>
+        <copyright />
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>PasswordView</name>
+        <url>https://github.com/tiwiz/PasswordView/</url>
+        <copyright />
+        <license>Apache Software License 2.0</license>
+    </notice>
+</notices>
